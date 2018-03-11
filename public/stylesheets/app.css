@@ -1,0 +1,15 @@
+i.icon{
+    font-size:2em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
+.space{
+    margin-top: 60px;
+}
+/*to make the delete and the edit button appear in the same line */
+#delete{
+    display: inline;
+}
